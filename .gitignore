@@ -1,0 +1,20 @@
+**/node_modules
+**/dist
+**/resources
+**/target
+Makefile*
+eslint.xml
+reports
+my_dev_tools
+.mtxcache.json
+*.bak
+*.pdf
+
+# IDEA
+.idea
+*.iml
+
+*.DS_Store
+
+#env file
+.env
